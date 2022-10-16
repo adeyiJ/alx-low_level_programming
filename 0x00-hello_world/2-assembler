@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -C CFILE -o CFILE
+gcc -C 2-main -o 2-main
